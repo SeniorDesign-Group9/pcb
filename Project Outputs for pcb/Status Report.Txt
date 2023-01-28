@@ -1,0 +1,31 @@
+Source PCB Design drv8833-panelize-v2.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [pcb.PrjPcb]
+   Generated File[drv8833-panelize-v2_Copper_Signal_Top.gbr]
+   Generated File[drv8833-panelize-v2_Copper_Signal_Bot.gbr]
+   Generated File[drv8833-panelize-v2_Pads_Bot.gbr]
+   Generated File[drv8833-panelize-v2_Pads_Top.gbr]
+   Generated File[drv8833-panelize-v2_Legend_Bot.gbr]
+   Generated File[drv8833-panelize-v2_Soldermask_Bot.gbr]
+   Generated File[drv8833-panelize-v2_Paste_Bot.gbr]
+   Generated File[drv8833-panelize-v2_Legend_Top.gbr]
+   Generated File[drv8833-panelize-v2_Paste_Top.gbr]
+   Generated File[drv8833-panelize-v2_Soldermask_Top.gbr]
+   Generated File[drv8833-panelize-v2_Keep-out.gbr]
+   Generated File[drv8833-panelize-v2_Mechanical_2.gbr]
+   Generated File[drv8833-panelize-v2_Mechanical_1.gbr]
+   Generated File[drv8833-panelize-v2_Profile.gbr]
+   Generated File[drv8833-panelize-v2_NPTH_Drill.gbr]
+   Generated File[drv8833-panelize-v2_PTH_Drill.gbr]
+   Generated File[drv8833-panelize-v2_Drawing_1.gbr]
+   Generated File[drv8833-panelize-v2_Drillmap_1.gbr]
+   Generated File[drv8833-panelize-v2.EXTREP]
+   Generated File[drv8833-panelize-v2.REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 5:42:03 PM On 1/24/2023
