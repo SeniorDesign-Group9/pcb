@@ -1,4 +1,3 @@
 Record=TopLevelDocument|FileName=microcontroller.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=microcontroller.SchDoc|FileName=Sensor.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=microcontroller.SchDoc|FileName=uart_ic.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=microcontroller.SchDoc|FileName=Valve.SchDoc|SheetNumber=3
