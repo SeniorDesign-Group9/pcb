@@ -355,23 +355,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document19]
-DocumentPath=valve.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IUJOQPFO
-
-[Document20]
 DocumentPath=lib\pcblib\SAMTEC_FTSH-105-01-L-DV-007.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -388,7 +371,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document20]
 DocumentPath=lib\schlib\FTSH-105-01-L-DV-007.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -405,7 +388,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document21]
 DocumentPath=uart.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -422,7 +405,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZQHAZQET
 
-[Document23]
+[Document22]
 DocumentPath=lib\pcblib\FT234XD-R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -439,7 +422,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document23]
 DocumentPath=lib\schlib\FT234XD-R.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -456,7 +439,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document24]
 DocumentPath=lib\pcblib\AMPHENOL_10118193-0001LF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -473,7 +456,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document25]
 DocumentPath=lib\schlib\10118193-0001LF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -490,7 +473,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document26]
 DocumentPath=power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -507,7 +490,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ENXXTMEC
 
-[Document28]
+[Document27]
 DocumentPath=lib\schlib\BQ25713RSNR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -524,7 +507,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document28]
 DocumentPath=lib\pcblib\BQ25713RSNR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -541,7 +524,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document29]
 DocumentPath=lib\pcblib\DVIS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -558,7 +541,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OYVDDNYK
 
-[Document31]
+[Document30]
 DocumentPath=lib\pcblib\DNIR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -575,7 +558,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RRPCKVQY
 
-[Document32]
+[Document31]
 DocumentPath=lib\pcblib\LM60430ARPKR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -592,7 +575,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document32]
 DocumentPath=lib\schlib\LM60430ARPKR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -609,7 +592,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document33]
 DocumentPath=lib\pcblib\LM34936RHFR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -626,7 +609,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document34]
 DocumentPath=lib\schlib\LM34936RHFR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -643,7 +626,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document35]
 DocumentPath=sensor.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -660,7 +643,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NXCHMPPP
 
-[Document37]
+[Document36]
 DocumentPath=lib\pcblib\CTM28.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
