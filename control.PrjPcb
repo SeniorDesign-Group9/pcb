@@ -202,23 +202,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=sensor.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YLWAVVYG
-
-[Document11]
 DocumentPath=control.PrjPcbStructure
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=lib\pcblib\1053141212.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPERARWY
 
-[Document13]
+[Document12]
 DocumentPath=lib\pcblib\ADS7142IRUGR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=lib\schlib\1053141212.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SYCDIQNA
 
-[Document15]
+[Document14]
 DocumentPath=lib\schlib\ADS7142IRUGR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document15]
 DocumentPath=lib\pcblib\DRV8833RTYT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=lib\schlib\DRV8833RTYT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,24 +320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
-DocumentPath=control.Annotation
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document19]
+[Document17]
 DocumentPath=lib\pcblib\SAMTEC_FTSH-105-01-L-DV-007.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -371,7 +337,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document18]
 DocumentPath=lib\schlib\FTSH-105-01-L-DV-007.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -388,7 +354,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document19]
 DocumentPath=uart.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -405,7 +371,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZQHAZQET
 
-[Document22]
+[Document20]
 DocumentPath=lib\pcblib\FT234XD-R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -422,7 +388,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document21]
 DocumentPath=lib\schlib\FT234XD-R.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -439,7 +405,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document22]
 DocumentPath=lib\pcblib\AMPHENOL_10118193-0001LF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -456,7 +422,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document23]
 DocumentPath=lib\schlib\10118193-0001LF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -473,24 +439,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
-DocumentPath=power.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ENXXTMEC
-
-[Document27]
+[Document24]
 DocumentPath=lib\schlib\BQ25713RSNR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -507,7 +456,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document25]
 DocumentPath=lib\pcblib\BQ25713RSNR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -524,7 +473,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document26]
 DocumentPath=lib\pcblib\DVIS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -541,7 +490,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OYVDDNYK
 
-[Document30]
+[Document27]
 DocumentPath=lib\pcblib\DNIR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -558,7 +507,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RRPCKVQY
 
-[Document31]
+[Document28]
 DocumentPath=lib\pcblib\LM60430ARPKR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -575,7 +524,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document29]
 DocumentPath=lib\schlib\LM60430ARPKR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -592,7 +541,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document30]
 DocumentPath=lib\pcblib\LM34936RHFR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -609,7 +558,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document31]
 DocumentPath=lib\schlib\LM34936RHFR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -626,24 +575,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
-DocumentPath=sensor.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NXCHMPPP
-
-[Document36]
+[Document32]
 DocumentPath=lib\pcblib\CTM28.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -659,10 +591,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YPJJUOEX
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for control\Design Rule Check - sensor.html
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
