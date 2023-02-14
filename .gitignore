@@ -2,6 +2,8 @@ History/
 History/*
 __Previews/
 __Previews/*
-'Project Outputs for pcb'/
-'Project Outputs for pcb'/*
 *.Annotation
+'Project Outputs for control'/
+'Project Outputs for control'/*
+'Project Logs for control'/
+'Project Logs for control'/*
