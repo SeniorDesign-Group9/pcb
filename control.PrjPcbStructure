@@ -1,5 +1,0 @@
-Record=TopLevelDocument|FileName=microcontroller.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=microcontroller.SchDoc|FileName=power.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=microcontroller.SchDoc|FileName=sensor.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=microcontroller.SchDoc|FileName=uart.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=microcontroller.SchDoc|FileName=valve.SchDoc|SheetNumber=3
