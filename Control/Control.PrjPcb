@@ -609,7 +609,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YPJJUOEX
 
 [Document34]
-DocumentPath=mainboard.PcbDoc
+DocumentPath=mcu.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
