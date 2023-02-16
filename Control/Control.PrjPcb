@@ -725,7 +725,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UBRXYQCH
 
 [Document41]
 DocumentPath=..\lib\pcblib\BQ25713RSNR.PcbLib
@@ -912,7 +912,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LGATVVPM
 
 [Document52]
 DocumentPath=..\lib\pcblib\SnapEDApcb.PcbLib
@@ -929,7 +929,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GMIVLSFD
 
 [Document53]
 DocumentPath=..\lib\pcblib\TIP120.PcbLib
