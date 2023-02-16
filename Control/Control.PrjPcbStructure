@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Record=TopLevelDocument|FileName=microcontroller.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=microcontroller.SchDoc|FileName=uart.SchDoc|SheetNumber=2
+=======
+Record=TopLevelDocument|FileName=microcontroller.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=microcontroller.SchDoc|FileName=uart.SchDoc|SheetNumber=2
+>>>>>>> d53bf3bd068c7a52d4916c5d024be4fa54240a42
