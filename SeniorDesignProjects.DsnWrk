@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Control\Control.PrjPcb
+[Project2]
+ProjectPath=Power\Power.PrjPcb
+[Project3]
+ProjectPath=Sensor\Sensor.PrjPcb

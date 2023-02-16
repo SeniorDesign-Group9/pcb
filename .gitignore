@@ -2,7 +2,8 @@ History/
 History/*
 __Previews/
 __Previews/*
-*.Annotation
+*.PrjPcbStructure
+*/*.PrjPcbStructure
 'Project Outputs for control'/
 'Project Outputs for control'/*
 'Project Logs for control'/
