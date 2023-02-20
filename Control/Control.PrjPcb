@@ -182,7 +182,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NCIFPCNN
 
 [Document9]
 DocumentPath=..\lib\pcblib\AMPHENOL_10118193-0001LF.PcbLib
