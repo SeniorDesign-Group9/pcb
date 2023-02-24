@@ -1,10 +1,13 @@
+# History, previews
+*/History/
+*/History/*
+*/__Previews/
+*/__Previews/*
 History/
 History/*
 __Previews/
 __Previews/*
-*.PrjPcbStructure
+
+# PrjPcbStructure
 */*.PrjPcbStructure
-'Project Outputs for control'/
-'Project Outputs for control'/*
-'Project Logs for control'/
-'Project Logs for control'/*
+*.PrjPcbStructure
