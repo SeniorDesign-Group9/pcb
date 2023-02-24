@@ -698,6 +698,10 @@ DocumentUniqueId=LFAJGTTC
 DocumentPath=Project Outputs for Power\Design Rule Check - power.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Power\Footprint Comparison - power.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
