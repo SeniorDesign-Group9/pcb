@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=P6-1
+Removed Pin From Net: NetName=+3V3 Pin=P6-2
+Removed Pin From Net: NetName=GND Pin=P7-1
+Removed Pin From Net: NetName=+5 Pin=P7-2
+Removed Pin From Net: NetName=GND Pin=P8-1
+Removed Pin From Net: NetName=+12 Pin=P8-2
+Removed Member From Class: ClassName=microcontroller Member=P6
+Removed Member From Class: ClassName=microcontroller Member=P7
+Removed Member From Class: ClassName=microcontroller Member=P8
+Add Pin To Net: Unknown Pin: Pin D4-A
+Add Pin To Net: Unknown Pin: Pin D4-C
+Add Pin To Net: Unknown Pin: Pin Q1-B
+Add Pin To Net: Unknown Pin: Pin Q1-C
+Add Pin To Net: Unknown Pin: Pin Q1-E
+Add Pin To Net: Unknown Pin: Pin Q5-B
+Add Pin To Net: Unknown Pin: Pin Q5-C
+Add Pin To Net: Unknown Pin: Pin Q5-E
