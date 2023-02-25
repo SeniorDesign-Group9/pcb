@@ -25,9 +25,13 @@ NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=0
 <<<<<<< HEAD
+AutoCrossReferences=1
+=======
+<<<<<<< HEAD
 =======
 AutoCrossReferences=1
 >>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
+>>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 NewIndexingOfSheetSymbols=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
@@ -89,7 +93,11 @@ DocumentUniqueId=
 <<<<<<< HEAD
 DocumentPath=lib\pcblib\DEA202450BT-1294C1-H.PcbLib
 =======
+<<<<<<< HEAD
+DocumentPath=lib\pcblib\DEA202450BT-1294C1-H.PcbLib
+=======
 DocumentPath=mcu.PcbDoc
+>>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -106,8 +114,12 @@ GenerateClassCluster=0
 DocumentUniqueId=DBUDSJLC
 
 [Document4]
+<<<<<<< HEAD
+DocumentPath=mcu.PcbDoc
+=======
 DocumentPath=..\lib\pcblib\EBAA-02-C.PcbLib
 >>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
+>>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -123,6 +135,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+<<<<<<< HEAD
+[Document5]
+DocumentPath=..\lib\pcblib\EBAA-02-C.PcbLib
+=======
 <<<<<<< HEAD
 [Document4]
 DocumentPath=lib\schlib\DEA202450BT-1294C1-H.SchLib
@@ -130,6 +146,7 @@ DocumentPath=lib\schlib\DEA202450BT-1294C1-H.SchLib
 [Document5]
 DocumentPath=..\lib\pcblib\1053141212.PcbLib
 >>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
+>>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -145,6 +162,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+<<<<<<< HEAD
+[Document6]
+DocumentPath=..\lib\pcblib\1053141212.PcbLib
+=======
 <<<<<<< HEAD
 [Document5]
 DocumentPath=lib\schlib\AH316M245001-T.SchLib
@@ -152,6 +173,7 @@ DocumentPath=lib\schlib\AH316M245001-T.SchLib
 [Document6]
 DocumentPath=..\lib\pcblib\ADS7142IRUGR.PcbLib
 >>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
+>>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -168,12 +190,17 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 <<<<<<< HEAD
+[Document7]
+DocumentPath=..\lib\pcblib\ADS7142IRUGR.PcbLib
+=======
+<<<<<<< HEAD
 [Document6]
 DocumentPath=lib\pcblib\AH316M245001-T.PcbLib
 =======
 [Document7]
 DocumentPath=..\lib\pcblib\AH316M245001-T.PcbLib
 >>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
+>>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -190,12 +217,17 @@ GenerateClassCluster=0
 DocumentUniqueId=NCIFPCNN
 
 <<<<<<< HEAD
+[Document8]
+DocumentPath=..\lib\pcblib\AH316M245001-T.PcbLib
+=======
+<<<<<<< HEAD
 [Document7]
 DocumentPath=lib\pcblib\SnapEDApcb.PcbLib
 =======
 [Document8]
 DocumentPath=..\lib\pcblib\AMPHENOL_10118193-0001LF.PcbLib
 >>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
+>>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -212,12 +244,17 @@ GenerateClassCluster=0
 DocumentUniqueId=UBRXYQCH
 
 <<<<<<< HEAD
+[Document9]
+DocumentPath=..\lib\pcblib\AMPHENOL_10118193-0001LF.PcbLib
+=======
+<<<<<<< HEAD
 [Document8]
 DocumentPath=lib\schlib\SnapEDAsch.SchLib
 =======
 [Document9]
 DocumentPath=..\lib\pcblib\BQ25713RSNR.PcbLib
 >>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
+>>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -234,9 +271,12 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 [Document9]
 DocumentPath=control.PrjPcbStructure
 =======
+>>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 [Document10]
 DocumentPath=..\lib\pcblib\CC3220SM2ARGKR.PcbLib
 AnnotationEnabled=1
@@ -255,8 +295,12 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
+<<<<<<< HEAD
+DocumentPath=..\lib\pcblib\CC3220SM2ARGKR.PcbLib
+=======
 DocumentPath=..\lib\pcblib\CTM28.PcbLib
 >>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
+>>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -273,12 +317,17 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 <<<<<<< HEAD
+[Document12]
+DocumentPath=..\lib\pcblib\CTM28.PcbLib
+=======
+<<<<<<< HEAD
 [Document10]
 DocumentPath=lib\pcblib\1053141212.PcbLib
 =======
 [Document12]
 DocumentPath=..\lib\pcblib\DEA202450BT-1294C1-H.PcbLib
 >>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
+>>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -295,6 +344,12 @@ GenerateClassCluster=0
 <<<<<<< HEAD
 DocumentUniqueId=ZQHAZQET
 
+[Document13]
+DocumentPath=..\lib\pcblib\DEA202450BT-1294C1-H.PcbLib
+=======
+<<<<<<< HEAD
+DocumentUniqueId=ZQHAZQET
+
 [Document11]
 DocumentPath=lib\pcblib\ADS7142IRUGR.PcbLib
 =======
@@ -303,6 +358,7 @@ DocumentUniqueId=
 [Document13]
 DocumentPath=..\lib\pcblib\DNIR.PcbLib
 >>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
+>>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -318,6 +374,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+<<<<<<< HEAD
+[Document14]
+DocumentPath=..\lib\pcblib\DNIR.PcbLib
+=======
 <<<<<<< HEAD
 [Document12]
 DocumentPath=lib\schlib\1053141212.SchLib
@@ -325,6 +385,7 @@ DocumentPath=lib\schlib\1053141212.SchLib
 [Document14]
 DocumentPath=..\lib\pcblib\DRV8833RTYT.PcbLib
 >>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
+>>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -340,6 +401,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+<<<<<<< HEAD
+[Document15]
+DocumentPath=..\lib\pcblib\DRV8833RTYT.PcbLib
+=======
 <<<<<<< HEAD
 [Document13]
 DocumentPath=lib\schlib\ADS7142IRUGR.SchLib
@@ -347,6 +412,7 @@ DocumentPath=lib\schlib\ADS7142IRUGR.SchLib
 [Document15]
 DocumentPath=..\lib\pcblib\DVIS.PcbLib
 >>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
+>>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -362,6 +428,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+<<<<<<< HEAD
+[Document16]
+DocumentPath=..\lib\pcblib\DVIS.PcbLib
+=======
 <<<<<<< HEAD
 [Document14]
 DocumentPath=lib\pcblib\DRV8833RTYT.PcbLib
@@ -369,6 +439,7 @@ DocumentPath=lib\pcblib\DRV8833RTYT.PcbLib
 [Document16]
 DocumentPath=..\lib\pcblib\FT234XD-R.PcbLib
 >>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
+>>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -384,6 +455,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+<<<<<<< HEAD
+[Document17]
+DocumentPath=..\lib\pcblib\FT234XD-R.PcbLib
+=======
 <<<<<<< HEAD
 [Document15]
 DocumentPath=lib\schlib\DRV8833RTYT.SchLib
@@ -391,6 +466,7 @@ DocumentPath=lib\schlib\DRV8833RTYT.SchLib
 [Document17]
 DocumentPath=..\lib\pcblib\LM34936RHFR.PcbLib
 >>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
+>>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -406,6 +482,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+<<<<<<< HEAD
+[Document18]
+DocumentPath=..\lib\pcblib\LM34936RHFR.PcbLib
+=======
 <<<<<<< HEAD
 [Document16]
 DocumentPath=control.Annotation
@@ -413,6 +493,7 @@ DocumentPath=control.Annotation
 [Document18]
 DocumentPath=..\lib\pcblib\LM60430ARPKR.PcbLib
 >>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
+>>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -429,12 +510,17 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 <<<<<<< HEAD
+[Document19]
+DocumentPath=..\lib\pcblib\LM60430ARPKR.PcbLib
+=======
+<<<<<<< HEAD
 [Document17]
 DocumentPath=lib\pcblib\SAMTEC_FTSH-105-01-L-DV-007.PcbLib
 =======
 [Document19]
 DocumentPath=..\lib\pcblib\SAMTEC_FTSH-105-01-L-DV-007.PcbLib
 >>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
+>>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -451,12 +537,17 @@ GenerateClassCluster=0
 DocumentUniqueId=LGATVVPM
 
 <<<<<<< HEAD
+[Document20]
+DocumentPath=..\lib\pcblib\SAMTEC_FTSH-105-01-L-DV-007.PcbLib
+=======
+<<<<<<< HEAD
 [Document18]
 DocumentPath=lib\schlib\FTSH-105-01-L-DV-007.SchLib
 =======
 [Document20]
 DocumentPath=..\lib\pcblib\SnapEDApcb.PcbLib
 >>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
+>>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -473,12 +564,17 @@ GenerateClassCluster=0
 DocumentUniqueId=GMIVLSFD
 
 <<<<<<< HEAD
+[Document21]
+DocumentPath=..\lib\pcblib\SnapEDApcb.PcbLib
+=======
+<<<<<<< HEAD
 [Document19]
 DocumentPath=uart.SchDoc
 =======
 [Document21]
 DocumentPath=..\lib\pcblib\TIP120.PcbLib
 >>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
+>>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -494,6 +590,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 [Document20]
 DocumentPath=lib\pcblib\FT234XD-R.PcbLib
@@ -539,8 +637,9 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 <<<<<<< HEAD
+>>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 [Document22]
-DocumentPath=lib\pcblib\AMPHENOL_10118193-0001LF.PcbLib
+DocumentPath=..\lib\pcblib\TIP120.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -683,6 +782,9 @@ DocumentPath=Project Outputs for Control\mcu.REP
 DItemRevisionGUID=
 
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 [Document29]
 DocumentPath=lib\schlib\LM60430ARPKR.SchLib
 AnnotationEnabled=1
@@ -785,6 +887,11 @@ ClassGenNCAutoScope=None
 DocumentPath=Project Outputs for Control\mcu_Drillmap_1.gbr
 >>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
 DItemRevisionGUID=
+<<<<<<< HEAD
+GenerateClassCluster=0
+DocumentUniqueId=EGTRXQJV
+=======
+>>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 
 <<<<<<< HEAD
 [Document34]
