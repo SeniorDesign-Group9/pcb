@@ -1,0 +1,26 @@
+Change Component Parameter Comment in U8 Old= New=10118193-0001LF
+Change Component Parameter Comment in U9 Old= New=10118193-0001LF
+Change Component Parameter Description in U8 Old=LDO Regulator Pos 1.25V to 37V 1.5A 3-Pin(3+Tab) TO-220 Tube New=Micro USB 2.0, Input Output Connectors, B TYPE RECEPTACLE
+Change Component Parameter Description in U9 Old=SIMPLE SWITCHER® 40V, 3A Low Component Count Step-Down Regulator 5-DDPAK/TO-263 -40 to 125 New=Micro USB 2.0, Input Output Connectors, B TYPE RECEPTACLE
+Change Component Parameter Library Reference in U8 Old=CMP-019-00049-1 New=10118193-0001LF
+Change Component Parameter Library Reference in U9 Old=CMP-019-00050-1 New=10118193-0001LF
+Added Parameter Availability=In Stock to Part U8
+Added Parameter Availability=In Stock to Part U9
+Added Parameter Check_prices=https://www.snapeda.com/parts/10118193-0001LF/Amphenol+FCI/view-part/?ref=eda to Part U8
+Added Parameter Check_prices=https://www.snapeda.com/parts/10118193-0001LF/Amphenol+FCI/view-part/?ref=eda to Part U9
+Added Parameter MF=Amphenol ICC to Part U8
+Added Parameter MF=Amphenol ICC to Part U9
+Added Parameter MP=10118193-0001LF to Part U8
+Added Parameter MP=10118193-0001LF to Part U9
+Added Parameter Package=None to Part U8
+Added Parameter Package=None to Part U9
+Added Parameter Price=None to Part U8
+Added Parameter Price=None to Part U9
+Added Parameter Purchase-URL=https://pricing.snapeda.com/search/part/10118193-0001LF/?ref=eda to Part U8
+Added Parameter Purchase-URL=https://pricing.snapeda.com/search/part/10118193-0001LF/?ref=eda to Part U9
+Added Parameter SnapEDA_Link=https://www.snapeda.com/parts/10118193-0001LF/Amphenol+FCI/view-part/?ref=snap to Part U8
+Added Parameter SnapEDA_Link=https://www.snapeda.com/parts/10118193-0001LF/Amphenol+FCI/view-part/?ref=snap to Part U9
+Added Parameter Value= to Part U8
+Added Parameter Value= to Part U9
+Replace Part U8 10118193-0001LF in D:\LocalDocuments\Projects\SeniorDesign-Group9-Schematics\Power\power.SchDoc with 10118193-0001LF from 10118193-0001LF.SchLib
+Replace Part U9 10118193-0001LF in D:\LocalDocuments\Projects\SeniorDesign-Group9-Schematics\Power\power.SchDoc with 10118193-0001LF from 10118193-0001LF.SchLib
