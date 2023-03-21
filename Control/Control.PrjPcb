@@ -24,14 +24,7 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=0
-<<<<<<< HEAD
 AutoCrossReferences=1
-=======
-<<<<<<< HEAD
-=======
-AutoCrossReferences=1
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
->>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 NewIndexingOfSheetSymbols=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
@@ -90,14 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-<<<<<<< HEAD
 DocumentPath=lib\pcblib\DEA202450BT-1294C1-H.PcbLib
-=======
-<<<<<<< HEAD
-DocumentPath=lib\pcblib\DEA202450BT-1294C1-H.PcbLib
-=======
-DocumentPath=mcu.PcbDoc
->>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -114,12 +100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DBUDSJLC
 
 [Document4]
-<<<<<<< HEAD
 DocumentPath=mcu.PcbDoc
-=======
-DocumentPath=..\lib\pcblib\EBAA-02-C.PcbLib
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
->>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135,18 +116,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-<<<<<<< HEAD
 [Document5]
 DocumentPath=..\lib\pcblib\EBAA-02-C.PcbLib
-=======
-<<<<<<< HEAD
-[Document4]
-DocumentPath=lib\schlib\DEA202450BT-1294C1-H.SchLib
-=======
-[Document5]
-DocumentPath=..\lib\pcblib\1053141212.PcbLib
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
->>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -156,24 +127,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-<<<<<<< HEAD
 [Document6]
 DocumentPath=..\lib\pcblib\1053141212.PcbLib
-=======
-<<<<<<< HEAD
-[Document5]
-DocumentPath=lib\schlib\AH316M245001-T.SchLib
-=======
-[Document6]
-DocumentPath=..\lib\pcblib\ADS7142IRUGR.PcbLib
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
->>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -183,24 +144,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-<<<<<<< HEAD
 [Document7]
 DocumentPath=..\lib\pcblib\ADS7142IRUGR.PcbLib
-=======
-<<<<<<< HEAD
-[Document6]
-DocumentPath=lib\pcblib\AH316M245001-T.PcbLib
-=======
-[Document7]
-DocumentPath=..\lib\pcblib\AH316M245001-T.PcbLib
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
->>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -210,73 +161,46 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NCIFPCNN
-
-<<<<<<< HEAD
-[Document8]
-DocumentPath=..\lib\pcblib\AH316M245001-T.PcbLib
-=======
-<<<<<<< HEAD
-[Document7]
-DocumentPath=lib\pcblib\SnapEDApcb.PcbLib
-=======
-[Document8]
-DocumentPath=..\lib\pcblib\AMPHENOL_10118193-0001LF.PcbLib
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
->>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UBRXYQCH
-
-<<<<<<< HEAD
-[Document9]
-DocumentPath=..\lib\pcblib\AMPHENOL_10118193-0001LF.PcbLib
-=======
-<<<<<<< HEAD
-[Document8]
-DocumentPath=lib\schlib\SnapEDAsch.SchLib
-=======
-[Document9]
-DocumentPath=..\lib\pcblib\BQ25713RSNR.PcbLib
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
->>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
+[Document8]
+DocumentPath=..\lib\pcblib\AH316M245001-T.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Document9]
-DocumentPath=control.PrjPcbStructure
-=======
->>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
+DocumentPath=..\lib\pcblib\AMPHENOL_10118193-0001LF.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Document10]
 DocumentPath=..\lib\pcblib\CC3220SM2ARGKR.PcbLib
 AnnotationEnabled=1
@@ -295,12 +219,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-<<<<<<< HEAD
-DocumentPath=..\lib\pcblib\CC3220SM2ARGKR.PcbLib
-=======
 DocumentPath=..\lib\pcblib\CTM28.PcbLib
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
->>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -310,55 +229,31 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-<<<<<<< HEAD
-[Document12]
-DocumentPath=..\lib\pcblib\CTM28.PcbLib
-=======
-<<<<<<< HEAD
-[Document10]
-DocumentPath=lib\pcblib\1053141212.PcbLib
-=======
 [Document12]
 DocumentPath=..\lib\pcblib\DEA202450BT-1294C1-H.PcbLib
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
->>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=3
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-<<<<<<< HEAD
 DocumentUniqueId=ZQHAZQET
 
 [Document13]
-DocumentPath=..\lib\pcblib\DEA202450BT-1294C1-H.PcbLib
-=======
-<<<<<<< HEAD
-DocumentUniqueId=ZQHAZQET
-
-[Document11]
-DocumentPath=lib\pcblib\ADS7142IRUGR.PcbLib
-=======
-DocumentUniqueId=
-
-[Document13]
 DocumentPath=..\lib\pcblib\DNIR.PcbLib
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
->>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -368,24 +263,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-<<<<<<< HEAD
-[Document14]
-DocumentPath=..\lib\pcblib\DNIR.PcbLib
-=======
-<<<<<<< HEAD
-[Document12]
-DocumentPath=lib\schlib\1053141212.SchLib
-=======
 [Document14]
 DocumentPath=..\lib\pcblib\DRV8833RTYT.PcbLib
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
->>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -395,24 +280,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-<<<<<<< HEAD
-[Document15]
-DocumentPath=..\lib\pcblib\DRV8833RTYT.PcbLib
-=======
-<<<<<<< HEAD
-[Document13]
-DocumentPath=lib\schlib\ADS7142IRUGR.SchLib
-=======
 [Document15]
 DocumentPath=..\lib\pcblib\DVIS.PcbLib
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
->>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -422,24 +297,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-<<<<<<< HEAD
-[Document16]
-DocumentPath=..\lib\pcblib\DVIS.PcbLib
-=======
-<<<<<<< HEAD
-[Document14]
-DocumentPath=lib\pcblib\DRV8833RTYT.PcbLib
-=======
 [Document16]
 DocumentPath=..\lib\pcblib\FT234XD-R.PcbLib
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
->>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -449,24 +314,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-<<<<<<< HEAD
-[Document17]
-DocumentPath=..\lib\pcblib\FT234XD-R.PcbLib
-=======
-<<<<<<< HEAD
-[Document15]
-DocumentPath=lib\schlib\DRV8833RTYT.SchLib
-=======
 [Document17]
 DocumentPath=..\lib\pcblib\LM34936RHFR.PcbLib
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
->>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -476,24 +331,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-<<<<<<< HEAD
-[Document18]
-DocumentPath=..\lib\pcblib\LM34936RHFR.PcbLib
-=======
-<<<<<<< HEAD
-[Document16]
-DocumentPath=control.Annotation
-=======
 [Document18]
 DocumentPath=..\lib\pcblib\LM60430ARPKR.PcbLib
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
->>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -503,24 +348,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-<<<<<<< HEAD
-[Document19]
-DocumentPath=..\lib\pcblib\LM60430ARPKR.PcbLib
-=======
-<<<<<<< HEAD
-[Document17]
-DocumentPath=lib\pcblib\SAMTEC_FTSH-105-01-L-DV-007.PcbLib
-=======
 [Document19]
 DocumentPath=..\lib\pcblib\SAMTEC_FTSH-105-01-L-DV-007.PcbLib
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
->>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -530,75 +365,31 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LGATVVPM
-
-<<<<<<< HEAD
-[Document20]
-DocumentPath=..\lib\pcblib\SAMTEC_FTSH-105-01-L-DV-007.PcbLib
-=======
-<<<<<<< HEAD
-[Document18]
-DocumentPath=lib\schlib\FTSH-105-01-L-DV-007.SchLib
-=======
-[Document20]
-DocumentPath=..\lib\pcblib\SnapEDApcb.PcbLib
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
->>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GMIVLSFD
-
-<<<<<<< HEAD
-[Document21]
-DocumentPath=..\lib\pcblib\SnapEDApcb.PcbLib
-=======
-<<<<<<< HEAD
-[Document19]
-DocumentPath=uart.SchDoc
-=======
-[Document21]
-DocumentPath=..\lib\pcblib\TIP120.PcbLib
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
->>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 [Document20]
-DocumentPath=lib\pcblib\FT234XD-R.PcbLib
-=======
-[Document22]
+DocumentPath=..\lib\pcblib\SnapEDApcb.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document21]
 DocumentPath=mcu_gerber.Cam
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -614,32 +405,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-<<<<<<< HEAD
-[Document21]
-DocumentPath=lib\schlib\FT234XD-R.SchLib
-=======
-[Document23]
-DocumentPath=mcu_ncdrill.Cam
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-<<<<<<< HEAD
->>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
 [Document22]
-DocumentPath=..\lib\pcblib\TIP120.PcbLib
+DocumentPath=mcu_ncdrill.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -649,36 +416,13 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
-=======
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Control\Design Rule Check - mcu.html
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-<<<<<<< HEAD
 [Document23]
-DocumentPath=lib\schlib\10118193-0001LF.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-=======
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Control\mcu-BoardEdgeRout.TXT
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
-DItemRevisionGUID=
-
-<<<<<<< HEAD
-[Document24]
 DocumentPath=lib\schlib\BQ25713RSNR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -691,18 +435,11 @@ DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
-=======
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Control\mcu-RoundHoles.TXT
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Control\mcu-SlotHoles.TXT
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
-DItemRevisionGUID=
-
-<<<<<<< HEAD
-[Document25]
+[Document24]
 DocumentPath=lib\pcblib\BQ25713RSNR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -715,14 +452,11 @@ DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
-=======
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Control\mcu.DRR
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-<<<<<<< HEAD
-[Document26]
+[Document25]
 DocumentPath=lib\pcblib\DVIS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -735,14 +469,11 @@ DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
-=======
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Control\mcu.EXTREP
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-<<<<<<< HEAD
-[Document27]
+[Document26]
 DocumentPath=lib\pcblib\DNIR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -755,14 +486,11 @@ DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
-=======
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Control\mcu.LDP
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-<<<<<<< HEAD
-[Document28]
+[Document27]
 DocumentPath=lib\pcblib\LM60430ARPKR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -775,17 +503,11 @@ DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
-=======
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Control\mcu.REP
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
-[Document29]
+[Document28]
 DocumentPath=lib\schlib\LM60430ARPKR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -798,14 +520,11 @@ DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
-=======
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Control\mcu_Copper_Signal_1.gbr
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-<<<<<<< HEAD
-[Document30]
+[Document29]
 DocumentPath=lib\pcblib\LM34936RHFR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -818,14 +537,11 @@ DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
-=======
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Control\mcu_Copper_Signal_2.gbr
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-<<<<<<< HEAD
-[Document31]
+[Document30]
 DocumentPath=lib\schlib\LM34936RHFR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -838,14 +554,11 @@ DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
-=======
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Control\mcu_Copper_Signal_Bot.gbr
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-<<<<<<< HEAD
-[Document32]
+[Document31]
 DocumentPath=lib\pcblib\CTM28.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -858,18 +571,11 @@ DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
-=======
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Control\mcu_Copper_Signal_Top.gbr
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Control\mcu_Drawing_1.gbr
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
-DItemRevisionGUID=
-
-<<<<<<< HEAD
-[Document33]
+[Document32]
 DocumentPath=mainboard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -882,19 +588,11 @@ DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
-=======
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Control\mcu_Drillmap_1.gbr
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
 DItemRevisionGUID=
-<<<<<<< HEAD
 GenerateClassCluster=0
-DocumentUniqueId=EGTRXQJV
-=======
->>>>>>> 4d71f24aca7c1813268a2432786a57c01d5d3900
+DocumentUniqueId=DBUDSJLC
 
-<<<<<<< HEAD
-[Document34]
+[Document33]
 DocumentPath=lib\pcblib\EBAA-02-C.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -907,10 +605,102 @@ DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
-=======
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document34]
+DocumentPath=..\lib\pcblib\CC3220MODASM2MONR.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document35]
+DocumentPath=..\lib\schlib\CC3220MODASM2MONR.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Control\Design Rule Check - mcu.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Control\mcu-BoardEdgeRout.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Control\mcu-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Control\mcu-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Control\mcu.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Control\mcu.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Control\mcu.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Control\mcu.REP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Control\mcu_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Control\mcu_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Control\mcu_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Control\mcu_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Control\mcu_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Control\mcu_Drillmap_1.gbr
+DItemRevisionGUID=
+
 [GeneratedDocument15]
 DocumentPath=Project Outputs for Control\mcu_Keep-out.gbr
->>>>>>> af4db4d11823cb1664b3b2ca76ec308bd8c1c034
 DItemRevisionGUID=
 
 [GeneratedDocument16]
