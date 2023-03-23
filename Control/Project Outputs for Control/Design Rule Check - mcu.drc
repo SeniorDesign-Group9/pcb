@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Brendan\Desktop\pcb\Control\mcu.PcbDoc
-Date     : 2/23/2023
-Time     : 14:27:01
+Date     : 3/23/2023
+Time     : 14:03:45
 
 Processing Rule : Clearance Constraint (Gap=0mil) (IsKeepOut),(InNet('GND'))
 Rule Violations :0
@@ -21,16 +21,13 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=8mil) (Max=35mil) (Preferred=12mil) (InNet('+3V3'))
+Processing Rule : Width Constraint (Min=8mil) (Max=100mil) (Preferred=12mil) (InNet('+3V3'))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=9.845mil) (Max=12.558mil) (Preferred=12.558mil) (InNetClass('RF_Class'))
+Processing Rule : Width Constraint (Min=20mil) (Max=100mil) (Preferred=25mil) (InNet('+5'))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=20mil) (Max=35mil) (Preferred=25mil) (InNet('+5'))
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=6mil) (Max=35mil) (Preferred=10mil) (All)
+Processing Rule : Width Constraint (Min=6mil) (Max=100mil) (Preferred=10mil) (All)
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=20mil) (Max=100mil) (Preferred=30mil) (InNetClass('12V_Class'))
@@ -42,7 +39,7 @@ Rule Violations :0
 Processing Rule : Minimum Annular Ring (Minimum=5.118mil) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=8mil) (Max=248mil) (All)
+Processing Rule : Hole Size Constraint (Min=12mil) (Max=248mil) (All)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=20mil) (All),(All)
@@ -63,26 +60,13 @@ Rule Violations :0
 Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Room microcontroller (Bounding Region = (7045mil, 60mil, 26260mil, 940mil) (InComponentClass('microcontroller'))
-Rule Violations :0
-
-Processing Rule : Room uart (Bounding Region = (7045mil, 990mil, 10190mil, 5290mil) (InComponentClass('uart'))
+Processing Rule : Room microcontroller (Bounding Region = (7045mil, 55mil, 21220mil, 1185mil) (InComponentClass('microcontroller'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
-Waived Violations Of Rule : Net Antennae (Tolerance=0mil) (All)
-   Waived Violation between Net Antennae: Track (84.608mil,2641.948mil)(780.931mil,2641.948mil) on Signal L1 Waived by Brendan College at 2/23/2023 14:25:44Irrelevant
-Waived Violations :1
-
-Waived Violations Of Rule : Board Clearance Constraint (Gap=0mil) (All)
-   Waived Violation between Board Outline Clearance(Outline Edge): (0.414mil < 7.874mil) Between Board Edge And Track (1061.85mil,5988.032mil)(1061.85mil,5997.087mil) on Top Overlay Waived by Brendan College at 2/23/2023 14:26:31Silk needed for footprint alignment
-   Waived Violation between Board Outline Clearance(Outline Edge): (0.414mil < 7.874mil) Between Board Edge And Track (762.638mil,5988.032mil)(762.638mil,5997.087mil) on Top Overlay Waived by Brendan College at 2/23/2023 14:26:58Silk needed for footprint alignment
-   Waived Violation between Board Outline Clearance(Outline Edge): (0.414mil < 7.874mil) Between Board Edge And Track (762.638mil,5997.087mil)(1061.85mil,5997.087mil) on Top Overlay Waived by Brendan College at 2/23/2023 14:26:05Silk needed for footprint alignment
-Waived Violations :3
-
 
 Violations Detected : 0
-Waived Violations : 4
+Waived Violations : 0
 Time Elapsed        : 00:00:01
