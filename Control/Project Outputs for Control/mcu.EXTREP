@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: mcu.GBR   2/23/2023  14:35:00
+Gerber File Extension Report For: mcu.GBR   3/23/2023  14:04:54
 ------------------------------------------------------------------------------------------
 
 
@@ -10,8 +10,6 @@ Layer Extension     Layer Description
 .gbr                Top Paste                               
 .gbr                Top Solder                              
 .gbr                Signal L1                               
-.gbr                GND L2                                  
-.gbr                GND L3                                  
 .gbr                Signal L4                               
 .gbr                Bottom Solder                           
 .gbr                Bottom Paste                            
@@ -23,9 +21,7 @@ Layer Extension     Layer Description
 .gbr                Keep-Out Layer                          
 .gbr                Top Pad Master                          
 .gbr                Bottom Pad Master                       
-.gbr                Dielectric 3                            
 .gbr                Dielectric 2                            
-.gbr                Dielectric 1                            
 .gbr                Multi-Layer                             
 .gbr                Drill Drawing                           
 .gbr                Drill Guide                             
