@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : D:\LocalDocuments\Projects\School\SeniorDesign-Group9-Schematics\Power\power.PcbDoc
+PCB File : C:\Users\Brendan\Desktop\pcb\Power\power.PcbDoc
 Date     : 4/6/2023
-Time     : 2:15:43 AM
+Time     : 11:20:01
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -13,10 +13,10 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad LV Jumper-1(2340mil,3570mil) on Multi-Layer And Pad LV Jumper-2(2440mil,3570mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad LV Jumper-3(2340mil,3470mil) on Multi-Layer And Pad LV Jumper-4(2440mil,3470mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net VSYS Between Pad VSYS Jumper-3(2340mil,3060mil) on Multi-Layer And Pad VSYS Jumper-4(2440mil,3060mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad VSYS Jumper-5(2340mil,2960mil) on Multi-Layer And Pad VSYS Jumper-6(2440mil,2960mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net +5 Between Pad LV Jumper-1(2980mil,2885mil) on Multi-Layer And Pad LV Jumper-2(3080mil,2885mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad LV Jumper-3(2980mil,2785mil) on Multi-Layer And Pad LV Jumper-4(3080mil,2785mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net VSYS Between Pad VSYS Jumper-3(2980mil,2375mil) on Multi-Layer And Pad VSYS Jumper-4(3080mil,2375mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad VSYS Jumper-5(2980mil,2275mil) on Multi-Layer And Pad VSYS Jumper-6(3080mil,2275mil) on Multi-Layer 
 Rule Violations :4
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
