@@ -4,3 +4,11 @@ Version=1.0
 ProjectPath=Control\Control.PrjPcb
 [Project2]
 ProjectPath=Sensor\Sensor.PrjPcb
+[Project3]
+ProjectPath=Power\Power.PrjPcb
+[Project4]
+ProjectPath=..\..\..\..\Downloads\diode-vishay\UL_Import_BYS10-25-E3&slash_TR.PrjScr
+[Project6]
+ProjectPath=.LibPkg
+[Project7]
+ProjectPath=..\..\..\..\Downloads\diode-vishay\AltiumDesigner\2023-04-06_00-54-24\BYS10-25-E3&slash_TR.LibPkg

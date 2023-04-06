@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Brendan\Desktop\pcb\Power\power.PcbDoc
-Date     : 2/24/2023
-Time     : 00:36:33
+Date     : 4/6/2023
+Time     : 11:20:01
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -13,7 +13,11 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
+   Violation between Un-Routed Net Constraint: Net +5 Between Pad LV Jumper-1(2980mil,2885mil) on Multi-Layer And Pad LV Jumper-2(3080mil,2885mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad LV Jumper-3(2980mil,2785mil) on Multi-Layer And Pad LV Jumper-4(3080mil,2785mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net VSYS Between Pad VSYS Jumper-3(2980mil,2375mil) on Multi-Layer And Pad VSYS Jumper-4(3080mil,2375mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad VSYS Jumper-5(2980mil,2275mil) on Multi-Layer And Pad VSYS Jumper-6(3080mil,2275mil) on Multi-Layer 
+Rule Violations :4
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -49,6 +53,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 4
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
