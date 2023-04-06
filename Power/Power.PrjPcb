@@ -80,7 +80,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CPERARWY
 
 [Document3]
 DocumentPath=..\lib\pcblib\ADS7142IRUGR.PcbLib
@@ -97,7 +97,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RMBGDXNM
 
 [Document4]
 DocumentPath=..\lib\pcblib\AH316M245001-T.PcbLib
@@ -114,7 +114,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NCIFPCNN
 
 [Document5]
 DocumentPath=..\lib\pcblib\AMPHENOL_10118193-0001LF.PcbLib
@@ -131,7 +131,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UBRXYQCH
 
 [Document6]
 DocumentPath=..\lib\pcblib\BQ25713RSNR.PcbLib
@@ -148,7 +148,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FTFKDSNP
 
 [Document7]
 DocumentPath=..\lib\pcblib\CC3220SM2ARGKR.PcbLib
@@ -165,7 +165,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FOWCKDLP
 
 [Document8]
 DocumentPath=..\lib\pcblib\CTM28.PcbLib
@@ -182,7 +182,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YPJJUOEX
 
 [Document9]
 DocumentPath=..\lib\pcblib\DEA202450BT-1294C1-H.PcbLib
@@ -199,7 +199,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SMVUYGMS
 
 [Document10]
 DocumentPath=..\lib\pcblib\DNIR.PcbLib
@@ -216,7 +216,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RRPCKVQY
 
 [Document11]
 DocumentPath=..\lib\pcblib\DRV8833RTYT.PcbLib
@@ -233,7 +233,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PYGWGGID
 
 [Document12]
 DocumentPath=..\lib\pcblib\DVIS.PcbLib
@@ -250,7 +250,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OYVDDNYK
 
 [Document13]
 DocumentPath=..\lib\pcblib\FT234XD-R.PcbLib
@@ -267,7 +267,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GMIVLSFD
 
 [Document14]
 DocumentPath=..\lib\pcblib\LM34936RHFR.PcbLib
@@ -284,7 +284,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AQSRASKY
 
 [Document15]
 DocumentPath=..\lib\pcblib\LM60430ARPKR.PcbLib
@@ -301,7 +301,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NYRRODLC
 
 [Document16]
 DocumentPath=..\lib\pcblib\SAMTEC_FTSH-105-01-L-DV-007.PcbLib
@@ -318,7 +318,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LGATVVPM
 
 [Document17]
 DocumentPath=..\lib\pcblib\SnapEDApcb.PcbLib
@@ -335,7 +335,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UKNOMIMS
 
 [Document18]
 DocumentPath=..\lib\pcblib\TIP120.PcbLib
@@ -352,7 +352,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LAMVYHBH
 
 [Document19]
 DocumentPath=..\lib\schlib\10118193-0001LF.SchLib
@@ -437,7 +437,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BQJHUHRT
 
 [Document24]
 DocumentPath=..\lib\schlib\CC3220SM2ARGKR.SchLib
@@ -454,7 +454,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UMJUCRFW
 
 [Document25]
 DocumentPath=..\lib\schlib\DEA202450BT-1294C1-H.SchLib
@@ -488,7 +488,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FNMYZVVY
 
 [Document27]
 DocumentPath=..\lib\schlib\FT234XD-R.SchLib
@@ -539,7 +539,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CVOZXTLS
 
 [Document30]
 DocumentPath=..\lib\schlib\LM60430ARPKR.SchLib
@@ -556,7 +556,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IREROQJC
 
 [Document31]
 DocumentPath=..\lib\schlib\SnapEDAsch.SchLib
@@ -590,7 +590,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UDLNNTUB
 
 [Document33]
 DocumentPath=power.PcbDoc
@@ -624,7 +624,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JGSFNAEL
 
 [Document35]
 DocumentPath=..\lib\pcblib\74437356022.PcbLib
@@ -641,7 +641,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VHKIPQYH
 
 [Document36]
 DocumentPath=..\lib\pcblib\7440650022.PcbLib
@@ -727,6 +727,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document41]
+DocumentPath=..\lib\pcblib\BYS10-25-E3&slash_TR.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HKMEJLAJ
+
+[Document42]
+DocumentPath=..\lib\pcblib\SOD123F.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FPSLNKDL
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Power\Design Rule Check - power.html
@@ -1788,7 +1822,7 @@ L17=WNNNNNNNWNNNWWWWN
 
 [Annotate]
 SortOrder=3
-SortLocation=0
+SortLocation=1
 ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
